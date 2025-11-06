@@ -1,3 +1,16 @@
 .oddelem{
-    
+    background-color: lightpink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+.secelem{
+    color: blue;
+    font-size: 36px;
+}
+.fontsize1{
+    font-size: 24px;
+}
+#fourelem{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
